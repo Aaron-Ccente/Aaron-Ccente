@@ -37,12 +37,6 @@
 
 </td>
 
-<td width="50%" align="center">
-
-  <!-- Lenguajes más usados -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Ccente&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</td>
 </tr>
 </table>
 
